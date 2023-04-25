@@ -1,2 +1,3 @@
-def myclass():
-    set = 23
+
+
+class tdd(TestCase)
